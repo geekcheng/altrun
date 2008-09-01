@@ -133,6 +133,10 @@ object ConfigForm: TConfigForm
     object tsHotKey: TTabSheet
       Caption = '&HotKey'
       ImageIndex = 1
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       DesignSize = (
         472
         253)
@@ -215,6 +219,10 @@ object ConfigForm: TConfigForm
     object tsFont: TTabSheet
       Caption = '&Font'
       ImageIndex = 2
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       DesignSize = (
         472
         253)
@@ -359,7 +367,7 @@ object ConfigForm: TConfigForm
         Style = csDropDownList
         Anchors = [akLeft, akTop, akRight]
         Ctl3D = False
-        ItemHeight = 13
+        ItemHeight = 0
         ParentCtl3D = False
         TabOrder = 4
         OnChange = cbbListFormatChange
@@ -368,6 +376,10 @@ object ConfigForm: TConfigForm
     object tsForm: TTabSheet
       Caption = 'F&orm'
       ImageIndex = 3
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       DesignSize = (
         472
         253)
@@ -422,7 +434,7 @@ object ConfigForm: TConfigForm
         Left = 128
         Top = 45
         Width = 145
-        Height = 22
+        Height = 19
         Ctl3D = False
         MaxValue = 255
         MinValue = 0
