@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008-05-25 11:51:00.509.bdsproj,C:\Documents and Settings\cnh31515\My Documents\RAD Studio\Projects\Project1.bdsproj=D:\My\Code\Delphi\HotRun\HotRun.bdsproj</Transaction>
+    <Transaction>2008-05-30 12:34:58.121.pas,D:\My\Code\Delphi\HotRun\Unit1.pas=D:\My\Code\Delphi\HotRun\Form\frmParam.pas</Transaction>
+    <Transaction>2008-05-30 12:34:58.121.dfm,D:\My\Code\Delphi\HotRun\Unit1.dfm=D:\My\Code\Delphi\HotRun\Form\frmParam.dfm</Transaction>
+    <Transaction>2008-06-20 16:44:53.367.bdsproj,D:\My\Code\Delphi\HotRun\HotRun.bdsproj=D:\My\Code\Delphi\HotRun\ALTRun.bdsproj</Transaction>
+    <Transaction>2008-06-21 00:49:34.610.pas,D:\My\Code\Delphi\HotRun\Form\frmHotRun.pas=D:\My\Code\Delphi\HotRun\Form\frmALTRun.pas</Transaction>
+    <Transaction>2008-06-21 00:49:34.610.dfm,D:\My\Code\Delphi\HotRun\Form\frmHotRun.dfm=D:\My\Code\Delphi\HotRun\Form\frmALTRun.dfm</Transaction>
+    <Transaction>2008-06-21 00:49:43.403.pas,D:\My\Code\Delphi\HotRun\Unit\untHotRunOption.pas=D:\My\Code\Delphi\HotRun\Unit\untALTRunOption.pas</Transaction>
+    <Transaction>2008-06-22 00:19:50.001.pas,D:\My\Code\Delphi\HotRun\Unit1.pas=D:\My\Code\Delphi\HotRun\Form\frmParamHelp.pas</Transaction>
+    <Transaction>2008-06-22 00:19:50.001.dfm,D:\My\Code\Delphi\HotRun\Unit1.dfm=D:\My\Code\Delphi\HotRun\Form\frmParamHelp.dfm</Transaction>
+    <Transaction>2008-06-24 02:44:46.818.pas,D:\My\Code\Delphi\HotRun\Form\frmParamHelp.pas=D:\My\Code\Delphi\HotRun\Form\frmHelp.pas</Transaction>
+    <Transaction>2008-06-24 02:44:46.818.dfm,D:\My\Code\Delphi\HotRun\Form\frmParamHelp.dfm=D:\My\Code\Delphi\HotRun\Form\frmHelp.dfm</Transaction>
+    <Transaction>2008-06-24 17:52:06.222.pas,D:\My\Code\Delphi\HotRun\Unit1.pas=D:\My\Code\Delphi\HotRun\Form\frmInvalid.pas</Transaction>
+    <Transaction>2008-06-24 17:52:06.222.dfm,D:\My\Code\Delphi\HotRun\Unit1.dfm=D:\My\Code\Delphi\HotRun\Form\frmInvalid.dfm</Transaction>
+    <Transaction>2008-07-28 01:19:28.910.pas,D:\My\Code\Delphi\HotRun\Unit1.pas=D:\My\Code\Delphi\HotRun\Unit\untDefrag.pas</Transaction>
+    <Transaction>2008-08-01 00:34:09.552.pas,D:\My\Code\Delphi\HotRun\Unit1.pas=D:\My\Code\Delphi\HotRun\Form\frmLang.pas</Transaction>
+    <Transaction>2008-08-01 00:34:09.552.dfm,D:\My\Code\Delphi\HotRun\Unit1.dfm=D:\My\Code\Delphi\HotRun\Form\frmLang.dfm</Transaction>
+    <Transaction>2008-08-09 15:08:21.817.pas,D:\My\Code\Delphi\HotRun\Unit1.pas=D:\My\Code\Delphi\HotRun\Unit\untQuickSort.pas</Transaction>
+    <Transaction>2008-08-09 17:29:28.862.pas,D:\My\Code\Delphi\HotRun\Unit\untQuickSort.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
