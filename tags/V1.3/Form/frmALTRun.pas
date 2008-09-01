@@ -1232,10 +1232,8 @@ begin
         end
         else
         begin
-          //删除ini文件，以保证下次启动时，仍然提问
           DeleteFile(ExtractFilePath(Application.ExeName) + TITLE + '.ini');
-          Application.Terminate;
-          Exit;
+          Halt(1);
         end;
       end;
 
