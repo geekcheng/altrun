@@ -62,7 +62,7 @@ object ConfigForm: TConfigForm
     Top = 8
     Width = 480
     Height = 281
-    ActivePage = tsLang
+    ActivePage = tsConfig
     Anchors = [akLeft, akTop, akRight, akBottom]
     TabOrder = 2
     object tsConfig: TTabSheet
